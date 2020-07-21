@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './sass/style.scss';
 
 function Root() {
   return (
