@@ -1,4 +1,5 @@
 node_modules/
 view/css/
-view/js/bundle.js
+public/view/js/bundle.js
+public/view/css/style.css
 yarn-error.log
