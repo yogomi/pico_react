@@ -5,6 +5,7 @@
   "author": "Makoto Yano <yan133@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "lint": "eslint src/**/*",
     "dev": "webpack-dev-server --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
