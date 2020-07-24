@@ -1,9 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Sub from './sub';
 
 function Root() {
   return (
-    <h1>Hello World!!</h1>
+    <div>
+      <h1>Hello World!!!!!!!</h1>
+      <Sub />
+    </div>
   );
 }
 
